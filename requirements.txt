@@ -1,0 +1,11 @@
+# Core Libraries
+mediapipe==0.10.0
+opencv-python==4.8.0.76
+numpy==1.24.3
+pyautogui==0.9.54
+
+# Optional (for ADB Android control)
+adb-shell==0.4.4
+
+# Utility
+python-dotenv==1.0.0  # For environment variables
