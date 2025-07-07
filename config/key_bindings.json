@@ -1,1 +1,8 @@
-
+{
+  "move_left": "a",
+  "move_right": "d",
+  "shoot": "left",
+  "melee": "f",
+  "bomb": "q",
+  "jetpack": "space"
+}
